@@ -4,6 +4,8 @@
 Helper file:
 - load the large text file
 - preprocessing of text file (`nlp stuff`)
+## Hold The Door
+![valar](http://www.fafadiatech.com/assets/images/exciting-times-to-do-nlp/hodor.jpg)
     - lematizing
     - stemming
     - eradicating stop words
@@ -24,5 +26,5 @@ Numpy file:
 
 Tensorflow file:
 -  created tensorflow neural network model consisting of 3 hidden layers unit. 
-
+![deeper](https://www.wired.com/wp-content/uploads/2015/06/1UZLj4yUiEPOE01ZJgqLrlw-1.jpeg)
 
